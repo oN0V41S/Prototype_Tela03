@@ -5,5 +5,5 @@ _Tela Prototipada e clonada em sala de aula. Prototyped and cloned screen in the
 _HTML,CSS e Figma para fazer o propotipo_
 
 
-[in Github Pages]([https://on0v41s.github.io/Prototype_Tela03/])
+[in Github Pages](https://on0v41s.github.io/Prototype_Tela03/)
 
